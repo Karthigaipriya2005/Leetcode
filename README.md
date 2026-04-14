@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Karthigaipriya2005/Leetcode/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Karthigaipriya2005/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Karthigaipriya2005/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
